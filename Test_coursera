@@ -1,1 +1,3 @@
-Test per verificare Coursera
+# Test per verificare Coursera
+# Display the output
+Print("New Python file")  
